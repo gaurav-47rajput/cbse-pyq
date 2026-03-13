@@ -81,11 +81,31 @@
     "url": "https://cbse-pyq.pages.dev/class10/Science/2025/31-2-3_Science.pdf"
   }
 ],
-    "2024": [
-      {
-        "title": "2024-Set 1",
-        "url": "https://cbse-pyq.pages.dev/class10/Science/2024/set1.pdf"
-      }
-    ]
+   "2024": [
+  {
+    "title": "Paper 31-1 • Set 1",
+    "url": "https://cbse-pyq.pages.dev/class10/Science/2024/31_1_1_Science.pdf"
+  },
+  {
+    "title": "Paper 31-1 • Set 2",
+    "url": "https://cbse-pyq.pages.dev/class10/Science/2024/31_1_2_Science.pdf"
+  },
+  {
+    "title": "Paper 31-1 • Set 3",
+    "url": "https://cbse-pyq.pages.dev/class10/Science/2024/31_1_3_Science.pdf"
+  },
+  {
+    "title": "Paper 31-2 • Set 1",
+    "url": "https://cbse-pyq.pages.dev/class10/Science/2024/31_2_1_Science.pdf"
+  },
+  {
+    "title": "Paper 31-2 • Set 2",
+    "url": "https://cbse-pyq.pages.dev/class10/Science/2024/31_2_2_Science.pdf"
+  },
+  {
+    "title": "Paper 31-2 • Set 3",
+    "url": "https://cbse-pyq.pages.dev/class10/Science/2024/31_2_3_Science.pdf"
+  }
+]
   }
 }
