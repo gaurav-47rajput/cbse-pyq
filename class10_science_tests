@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "classLevel": 10,
+  "subjects": [
+    {
+      "subjectId": 2,
+      "subjectName": "Science",
+      "chapters": [
+        {
+          "chapterId": 1,
+          "chapterName": "Chemical Reactions and Equations",
+          "tests": [
+            {
+              "testId": 1,
+              "title": "Chemical Reactions – Test 1 (Basics & Balancing)",
+              "difficulty": 1,
+              "questions": [
+                {
+                  "id": 1,
+                  "class": 10,
+                  "subjectId": 2,
+                  "chapterId": 1,
+                  "questionText": "Which of the following is a balanced chemical equation for the reaction of hydrogen with oxygen to form water?",
+                  "optionA": "H₂ + O₂ → H₂O",
+                  "optionB": "2H₂ + O₂ → 2H₂O",
+                  "optionC": "H₂ + 2O₂ → H₂O",
+                  "optionD": "2H₂ + 2O₂ → 2H₂O",
+                  "correctOption": "B",
+                  "hint": "Count atoms on both sides.",
+                  "explanation": "Balanced equation has equal atoms on both sides. Option B satisfies this.",
+                  "difficulty": 1
+                },
+                {
+                  "id": 2,
+                  "class": 10,
+                  "subjectId": 2,
+                  "chapterId": 1,
+                  "questionText": "The reaction: 2PbO + C → 2Pb + CO₂ is an example of:",
+                  "optionA": "Combination reaction",
+                  "optionB": "Decomposition reaction",
+                  "optionC": "Displacement reaction",
+                  "optionD": "Redox reaction",
+                  "correctOption": "D",
+                  "hint": "Check oxidation and reduction.",
+                  "explanation": "PbO is reduced to Pb and C is oxidized to CO₂, so it is a redox reaction.",
+                  "difficulty": 2
+                },
+                {
+                  "id": 3,
+                  "class": 10,
+                  "subjectId": 2,
+                  "chapterId": 1,
+                  "questionText": "A reaction in which a single reactant breaks down into two or more simpler substances is called:",
+                  "optionA": "Synthesis reaction",
+                  "optionB": "Decomposition reaction",
+                  "optionC": "Combustion reaction",
+                  "optionD": "Redox reaction",
+                  "correctOption": "B",
+                  "hint": "Breakdown of compound.",
+                  "explanation": "Decomposition reaction involves breaking down into simpler substances.",
+                  "difficulty": 1
+                },
+                {
+                  "id": 4,
+                  "class": 10,
+                  "subjectId": 2,
+                  "chapterId": 1,
+                  "questionText": "When iron nails are placed in copper sulphate solution, the colour changes from blue to:",
+                  "optionA": "Green",
+                  "optionB": "Yellow",
+                  "optionC": "Colourless",
+                  "optionD": "Red",
+                  "correctOption": "A",
+                  "hint": "FeSO₄ formation.",
+                  "explanation": "Iron displaces copper forming FeSO₄ (green).",
+                  "difficulty": 2
+                },
+                {
+                  "id": 5,
+                  "class": 10,
+                  "subjectId": 2,
+                  "chapterId": 1,
+                  "questionText": "Which is a double displacement reaction?",
+                  "optionA": "Zn + H₂SO₄ → ZnSO₄ + H₂",
+                  "optionB": "NaOH + HCl → NaCl + H₂O",
+                  "optionC": "2Mg + O₂ → 2MgO",
+                  "optionD": "CaCO₃ → CaO + CO₂",
+                  "correctOption": "B",
+                  "hint": "Exchange of ions.",
+                  "explanation": "Na⁺ and H⁺ exchange to form NaCl and H₂O.",
+                  "difficulty": 2
+                }
+              ]
+            },
+
+            {
+              "testId": 2,
+              "title": "Chemical Reactions – Test 2 (Types & Applications)",
+              "difficulty": 2,
+              "questions": [
+                {
+                  "id": 6,
+                  "class": 10,
+                  "subjectId": 2,
+                  "chapterId": 1,
+                  "questionText": "The reaction in which heat is absorbed is called:",
+                  "optionA": "Exothermic reaction",
+                  "optionB": "Endothermic reaction",
+                  "optionC": "Combustion reaction",
+                  "optionD": "Oxidation reaction",
+                  "correctOption": "B",
+                  "hint": "Heat absorbed.",
+                  "explanation": "Endothermic reactions absorb heat.",
+                  "difficulty": 1
+                },
+                {
+                  "id": 7,
+                  "class": 10,
+                  "subjectId": 2,
+                  "chapterId": 1,
+                  "questionText": "Rancidity can be prevented by:",
+                  "optionA": "Keeping food in open air",
+                  "optionB": "Adding antioxidants",
+                  "optionC": "Exposing to sunlight",
+                  "optionD": "Adding water",
+                  "correctOption": "B",
+                  "hint": "Prevent oxidation.",
+                  "explanation": "Antioxidants prevent oxidation of fats.",
+                  "difficulty": 2
+                },
+                {
+                  "id": 8,
+                  "class": 10,
+                  "subjectId": 2,
+                  "chapterId": 1,
+                  "questionText": "Which is a thermal decomposition reaction?",
+                  "optionA": "2H₂ + O₂ → 2H₂O",
+                  "optionB": "CaCO₃ → CaO + CO₂",
+                  "optionC": "Zn + CuSO₄ → ZnSO₄ + Cu",
+                  "optionD": "NaOH + HCl → NaCl + H₂O",
+                  "correctOption": "B",
+                  "hint": "Heat causes breakdown.",
+                  "explanation": "CaCO₃ decomposes on heating.",
+                  "difficulty": 2
+                },
+                {
+                  "id": 9,
+                  "class": 10,
+                  "subjectId": 2,
+                  "chapterId": 1,
+                  "questionText": "In MnO₂ + 4HCl → MnCl₂ + 2H₂O + Cl₂, which is oxidized?",
+                  "optionA": "MnO₂",
+                  "optionB": "HCl",
+                  "optionC": "MnCl₂",
+                  "optionD": "Cl₂",
+                  "correctOption": "B",
+                  "hint": "Loss of electrons.",
+                  "explanation": "Cl⁻ from HCl loses electrons to form Cl₂ → oxidation.",
+                  "difficulty": 3
+                },
+                {
+                  "id": 10,
+                  "class": 10,
+                  "subjectId": 2,
+                  "chapterId": 1,
+                  "questionText": "A shiny brown element that turns black on heating is:",
+                  "optionA": "Iron",
+                  "optionB": "Copper",
+                  "optionC": "Aluminium",
+                  "optionD": "Zinc",
+                  "correctOption": "B",
+                  "hint": "Forms CuO.",
+                  "explanation": "Copper forms black CuO on heating.",
+                  "difficulty": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
