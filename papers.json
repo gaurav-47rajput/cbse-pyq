@@ -53,6 +53,7 @@
       }
     ]
   },
+
   "Science": {
     "2024": [
       {
@@ -107,87 +108,167 @@
       }
     ]
   },
+
   "History": {
     "2024": [
       {
         "title": "Paper 32-1 • Set 1",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_1_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_1_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-1 • Set 2",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_2_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_2_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-1 • Set 3",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_3_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_3_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-2 • Set 1",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_1_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_1_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-2 • Set 2",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_2_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_2_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-2 • Set 3",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_3_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_3_Social%20Science.pdf"
+      }
+    ],
+    "2025": [
+      {
+        "title": "Paper 32-1 • Set 1",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-1-1_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-1 • Set 2",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-1-2_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-1 • Set 3",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-1-3_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-2 • Set 1",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-2-1_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-2 • Set 2",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-2-2_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-2 • Set 3",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-2-3_Social%20Science.pdf"
       }
     ]
   },
+
   "Civics": {
     "2024": [
       {
         "title": "Paper 32-1 • Set 1",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_1_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_1_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-1 • Set 2",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_2_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_2_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-1 • Set 3",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_3_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_3_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-2 • Set 1",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_1_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_1_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-2 • Set 2",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_2_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_2_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-2 • Set 3",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_3_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_3_Social%20Science.pdf"
+      }
+    ],
+    "2025": [
+      {
+        "title": "Paper 32-1 • Set 1",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-1-1_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-1 • Set 2",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-1-2_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-1 • Set 3",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-1-3_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-2 • Set 1",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-2-1_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-2 • Set 2",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-2-2_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-2 • Set 3",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-2-3_Social%20Science.pdf"
       }
     ]
   },
-  "Geography": {
+  "Geography":{
     "2024": [
       {
         "title": "Paper 32-1 • Set 1",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_1_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_1_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-1 • Set 2",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_2_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_2_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-1 • Set 3",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_3_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_3_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-2 • Set 1",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_1_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_1_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-2 • Set 2",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_2_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_2_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-2 • Set 3",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_3_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_3_Social%20Science.pdf"
+      }
+    ],
+    "2025": [
+      {
+        "title": "Paper 32-1 • Set 1",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-1-1_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-1 • Set 2",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-1-2_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-1 • Set 3",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-1-3_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-2 • Set 1",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-2-1_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-2 • Set 2",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-2-2_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-2 • Set 3",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-2-3_Social%20Science.pdf"
       }
     ]
   },
@@ -195,27 +276,53 @@
     "2024": [
       {
         "title": "Paper 32-1 • Set 1",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_1_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_1_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-1 • Set 2",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_2_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_2_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-1 • Set 3",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_3_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_1_3_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-2 • Set 1",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_1_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_1_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-2 • Set 2",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_2_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_2_Social%20Science.pdf"
       },
       {
         "title": "Paper 32-2 • Set 3",
-        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_3_Social Science.pdf"
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2024/32_2_3_Social%20Science.pdf"
+      }
+    ],
+    "2025": [
+      {
+        "title": "Paper 32-1 • Set 1",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-1-1_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-1 • Set 2",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-1-2_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-1 • Set 3",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-1-3_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-2 • Set 1",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-2-1_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-2 • Set 2",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-2-2_Social%20Science.pdf"
+      },
+      {
+        "title": "Paper 32-2 • Set 3",
+        "url": "https://cbse-pyq.pages.dev/class10/SocialScience/2025/32-2-3_Social%20Science.pdf"
       }
     ]
   }
