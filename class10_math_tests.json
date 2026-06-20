@@ -11,7 +11,7 @@
           "chapterName": "Real Numbers",
           "tests": [
             {
-              "testId": 1,
+              "testId": 100101
               "title": "Real Numbers – Test 1",
               "difficulty": 1,
               "questions": [
@@ -168,7 +168,7 @@
               ]
             },
             {
-              "testId": 2,
+              "testId":  100102
               "title": "Real Numbers – Test 2",
               "difficulty": 2,
               "questions": [
@@ -325,7 +325,7 @@
               ]
             },
             {
-              "testId": 3,
+              "testId":  100103
               "title": "Real Numbers – Test 3",
               "difficulty": 3,
               "questions": [
@@ -482,7 +482,7 @@
               ]
             },
             {
-              "testId": 4,
+              "testId":  100104
               "title": "Real Numbers – Test 4",
               "difficulty": 2,
               "questions": [
@@ -645,7 +645,7 @@
           "chapterName": "Polynomials",
           "tests": [
             {
-              "testId": 1,
+              "testId":  100201,
               "title": "Polynomials – Test 1",
               "difficulty": 1,
               "questions": [
@@ -802,7 +802,7 @@
               ]
             },
             {
-              "testId": 2,
+              "testId": 100202
               "title": "Polynomials – Test 2",
               "difficulty": 2,
               "questions": [
@@ -959,7 +959,7 @@
               ]
             },
             {
-              "testId": 3,
+              "testId": 100203
               "title": "Polynomials – Test 3",
               "difficulty": 3,
               "questions": [
@@ -1116,7 +1116,7 @@
               ]
             },
             {
-              "testId": 4,
+              "testId": 100204
               "title": "Polynomials – Test 4",
               "difficulty": 3,
               "questions": [
@@ -1279,7 +1279,7 @@
           "chapterName": "Linear Equations",
           "tests": [
             {
-              "testId": 1,
+              "testId": 100301,
               "title": "Linear Equations – Test 1",
               "difficulty": 1,
               "questions": [
@@ -1436,7 +1436,7 @@
               ]
             },
             {
-              "testId": 2,
+              "testId": 100302
               "title": "Linear Equations – Test 2",
               "difficulty": 2,
               "questions": [
@@ -1593,7 +1593,7 @@
               ]
             },
             {
-              "testId": 3,
+              "testId": 100303
               "title": "Linear Equations – Test 3",
               "difficulty": 2,
               "questions": [
@@ -1750,7 +1750,7 @@
               ]
             },
             {
-              "testId": 4,
+              "testId": 100304
               "title": "Linear Equations – Test 4",
               "difficulty": 2,
               "questions": [
@@ -1913,7 +1913,7 @@
           "chapterName": "Quadratic Equations",
           "tests": [
             {
-              "testId": 1,
+              "testId": 100401,
               "title": "Quadratic Equations – Test 1",
               "difficulty": 1,
               "questions": [
@@ -2070,7 +2070,7 @@
               ]
             },
             {
-              "testId": 2,
+              "testId": 100402,
               "title": "Quadratic Equations – Test 2",
               "difficulty": 2,
               "questions": [
@@ -2227,7 +2227,7 @@
               ]
             },
             {
-              "testId": 3,
+              "testId": 100403,
               "title": "Quadratic Equations – Test 3",
               "difficulty": 3,
               "questions": [
@@ -2384,7 +2384,7 @@
               ]
             },
             {
-              "testId": 4,
+              "testId": 100404,
               "title": "Quadratic Equations – Test 4",
               "difficulty": 3,
               "questions": [
