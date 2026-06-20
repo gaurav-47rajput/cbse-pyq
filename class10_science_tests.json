@@ -11,7 +11,7 @@
           "chapterName": "Chemical Reactions and Equations",
           "tests": [
             {
-              "testId": 1,
+              "testId": 200101,
               "title": "Chemical Reactions – Test 1 (Basics & Balancing)",
               "difficulty": 1,
               "questions": [
@@ -168,7 +168,7 @@
               ]
             },
             {
-              "testId": 2,
+              "testId": 200102,
               "title": "Chemical Reactions – Test 2 (Types & Applications)",
               "difficulty": 2,
               "questions": [
@@ -325,7 +325,7 @@
               ]
             },
             {
-              "testId": 3,
+              "testId": 200103,
               "title": "Chemical Reactions – Test 3 (Corrosion, Oxidation States & Analysis)",
               "difficulty": 3,
               "questions": [
@@ -482,7 +482,7 @@
               ]
             },
             {
-              "testId": 4,
+              "testId": 200104,
               "title": "Chemical Reactions – Test 4 (Advanced & Application)",
               "difficulty": 4,
               "questions": [
@@ -645,7 +645,7 @@
           "chapterName": "Acids, Bases and Salts",
           "tests": [
             {
-              "testId": 1,
+              "testId": 200201,
               "title": "Acids, Bases and Salts – Test 1 (Basics & Indicators)",
               "difficulty": 1,
               "questions": [
@@ -802,7 +802,7 @@
               ]
             },
             {
-              "testId": 2,
+              "testId": 200202,
               "title": "Acids, Bases and Salts – Test 2 (pH & Reactions)",
               "difficulty": 2,
               "questions": [
@@ -959,7 +959,7 @@
               ]
             },
             {
-              "testId": 3,
+              "testId": 200203,
               "title": "Acids, Bases and Salts – Test 3 (Salts, Water of Crystallisation & Applications)",
               "difficulty": 3,
               "questions": [
@@ -1116,7 +1116,7 @@
               ]
             },
             {
-              "testId": 4,
+              "testId": 200204,
               "title": "Acids, Bases and Salts – Test 4 (Advanced & Application)",
               "difficulty": 4,
               "questions": [
