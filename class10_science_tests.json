@@ -4448,7 +4448,7 @@
           "chapterId": 8,
           "chapterName": "Heredity",
           "tests": [
-            [
+            
               {
                 "testId": 200801,
                 "title": "Heredity – Test 1",
@@ -5078,13 +5078,13 @@
                 ]
               }
             ]
-          ]
+        
         },
         {
           "chapterId": 9,
           "chapterName": "Light – Reflection and Refraction",
           "tests": [
-            [
+            
               {
                 "testId": 200901,
                 "title": "Light – Reflection and Refraction – Test 1",
@@ -5713,7 +5713,7 @@
                   }
                 ]
               }
-            ]
+            
           ]
         }
       ]
