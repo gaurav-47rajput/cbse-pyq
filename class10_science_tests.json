@@ -3180,7 +3180,6 @@
           "chapterId": 6,
           "chapterName": "CONTROL AND COORDINATION",
           "tests": [
-            [
               {
                 "testId": 200601,
                 "title": "CONTROL AND COORDINATION – Test 1",
@@ -3810,7 +3809,6 @@
                 ]
               }
             ]
-          ]
         },
         {
           "chapterId": 7,
