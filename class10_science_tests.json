@@ -7778,7 +7778,7 @@
             {
               "testId": 2001302,
               "title": "Our Environment – Test 2",
-              "difficulty": 2,
+              "difficulty": 3,
               "questions": [
                 {
                   "id": 11,
@@ -7935,7 +7935,7 @@
             {
               "testId": 2001303,
               "title": "Our Environment – Test 3",
-              "difficulty": 2,
+              "difficulty": 1,
               "questions": [
                 {
                   "id": 21,
